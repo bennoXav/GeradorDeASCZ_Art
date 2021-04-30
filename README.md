@@ -3,7 +3,7 @@
 
 ORCA RT-Bench is (or should be) a workbench for modeling and simulating real-time systems. The project is at its initial steps, and is likely to change a lot in the next weeks. No recommended for production-ready stuff.
 
-### Scheduling Algorithms
+## Scheduling Algorithms
 
 Rate Monotonic (RM) scheduling: fixed-priority policy where the higher the frequency (1/period) of a task, the higher is its priority.
 Earliest DeadLine First (EDF) scheduling: fixed-priority policy where the earlier the deadline of a task, the higher is its priority.
