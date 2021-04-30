@@ -1,5 +1,5 @@
 # ORCA RT-Bench
-![C++ Build](https://github.com/andersondomingues/orca-rt-bench/actions/workflows/c-cpp.yml/badge.svg)![Java Build](https://github.com/andersondomingues//orca-rt-bench/actions/workflows/main.yml/badge.svg) ![Code Factor](https://www.codefactor.io/repository/github/andersondomingues/orca-rt-bench)
+![C++ Build](https://github.com/andersondomingues/orca-rt-bench/actions/workflows/c-cpp.yml/badge.svg)![Java Build](https://github.com/andersondomingues//orca-rt-bench/actions/workflows/main.yml/badge.svg) [![CodeFactor](https://www.codefactor.io/repository/github/andersondomingues/orca-rt-bench/badge)](https://www.codefactor.io/repository/github/andersondomingues/orca-rt-bench)
 
 ORCA RT-Bench is (or should be) a workbench for modeling and simulating real-time systems. The project is at its initial steps, and is likely to change a lot in the next weeks. No recommended for production-ready stuff.
 
