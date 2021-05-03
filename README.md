@@ -37,3 +37,7 @@
 ## Contact
 
 - Feel free to contact me ([andersondomingues](https://github.com/andersondomingues)), the maintainer of this project: mailto:ti.andersondomingues@gmail.com.
+- 
+## Collaborators
+
+- João Benno, [his repository](https://github.com/bennoXav)
