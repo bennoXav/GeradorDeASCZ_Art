@@ -7,7 +7,16 @@ ORCA RT-Bench is (or should be) a workbench for modeling and simulating real-tim
 
 Rate Monotonic (RM) scheduling: fixed-priority policy where the higher the frequency (1/period) of a task, the higher is its priority.
 Earliest DeadLine First (EDF) scheduling: fixed-priority policy where the earlier the deadline of a task, the higher is its priority.
+## Build Requirements
 
+### Windows Users
+- Install Mingw (https://sourceforge.net/projects/mingw/). When prompted, select "development basics" and wait for it to install. Then, add the 'C:\MinGW\bin' folder to the PATH (hit the Windows button, type environment variables and append it to the existe PATH variable).
+- Download https://git-scm.com/ and install with default settings (important!).
+- Download lastest Eclipse from https://www.eclipse.org/. Install or unzip it.  
+
+### Linux Users
+- Install the following packages: 'build-essentials gcc make git' 
+- Download lastest Eclipse from https://www.eclipse.org/. Install or unzip it.
 ## Licensing
 
 This is free software! See ``LICENSE.MD`` for details. 
