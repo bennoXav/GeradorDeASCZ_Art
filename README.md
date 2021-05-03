@@ -25,7 +25,7 @@
 ### Linux Users
 - Install the following packages: 'build-essentials gcc make git' 
 - Download lastest Eclipse from https://www.eclipse.org/. Install or unzip it.
-- 
+
 ## Runtime Requirements
 
 - Java 15(or most recent version)
