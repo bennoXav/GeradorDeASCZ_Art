@@ -8,7 +8,7 @@
 - A simulation tool which allows to simulate scheduling tasks with a determined algorithm
 - data exchange files to facilitate integration with other tools 
 - Already implemented build/run setup for Windows 10 and Linux 20.04
-- 
+
 ## Scheduling Algorithms
 
 ### The ORCA-RT-Bench has, for now, two scheduling algorithms implemented 
